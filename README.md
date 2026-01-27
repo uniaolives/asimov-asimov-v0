@@ -1,6 +1,6 @@
-# Asimov v0, an open-source bipedal robotic legs for humanoid robots
+# Asimov v0, an open-source bipedal robotic legs
 
-Asimov is a complete bipedal leg built with off-the-shelf components and compatible with low-volume manufacturing processes.
+Asimov is a complete bipedal leg for humanoid robots, built with off-the-shelf components and compatible with low-volume manufacturing processes.
 
 <p align="center">
   <a href="https://asimov.inc">Website</a>
