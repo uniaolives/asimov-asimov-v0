@@ -42,7 +42,7 @@ Asimov is a complete bipedal leg for humanoid robots, built with off-the-shelf c
 
 ## Motors
 
-- Motors from [Encos](encos.cn)
+- Motors from [Encos](http://encos.cn)
 
 | Joint | Model |
 |-------|-------|
